@@ -14,12 +14,8 @@ b. Cost effective
 c. Better Service
 ### UML DIAGRAMS:
 USE DIAGRAM:
+
 <img width="647" height="510" alt="image" src="https://github.com/user-attachments/assets/3dab40c7-48a1-463b-ab3c-36ba92698048" />
-
-
-SEQUENCE DIAGRAM:
-
-<img width="649" height="813" alt="image" src="https://github.com/user-attachments/assets/3dd620f2-9311-4a11-946b-256d540c0263" />
 
 PACKAGE DIAGRAM:
 
